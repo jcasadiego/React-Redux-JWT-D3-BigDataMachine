@@ -1,7 +1,7 @@
 instrucciones:
 
 ```
-git clone
+git clone https://github.com/jcasadiego/React-Redux-JWT-D3-BigDataMachine.git
 npm install
 npm start
 
